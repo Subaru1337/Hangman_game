@@ -1,0 +1,22 @@
+word_list = [
+    'absurd', 'affix', 'askew', 'avenue', 'awkward', 'azure', 'bagpipes', 'banjo',
+    'bayou', 'bikini', 'blitz', 'boggle', 'bookworm', 'boxcar', 'boxful', 'buffalo',
+    'buffoon', 'buxom', 'buzzard', 'buzzing', 'caliph', 'cobweb', 'cockiness', 'croquet',
+    'cycle', 'duplex', 'dwarves', 'embezzle', 'equip', 'exodus', 'faking', 'fishhook',
+    'fixable', 'fjord', 'flapjack', 'flopping', 'flyby', 'foxglove', 'funny', 'gabby',
+    'galaxy', 'gazebo', 'gizmo', 'glowworm', 'glyph', 'gnarly', 'gossip', 'haiku',
+    'haphazard', 'hyphen', 'icebox', 'injury', 'ivory', 'ivy', 'jackpot', 'jaywalk',
+    'jazzy', 'jelly', 'jigsaw', 'jinx', 'jockey', 'jogging', 'joking', 'jovial',
+    'joyful', 'juicy', 'jukebox', 'jumbo', 'kayak', 'kazoo', 'keyhole', 'khaki',
+    'kiosk', 'klutz', 'knapsack', 'larynx', 'lengths', 'lucky', 'luxury', 'marquis',
+    'matrix', 'megahertz', 'microwave', 'mystify', 'nightclub', 'nowadays', 'nymph',
+    'onyx', 'ovary', 'oxidize', 'oxygen', 'pajama', 'peekaboo', 'pixel', 'polka',
+    'pshaw', 'puppy', 'puzzling', 'quartz', 'queue', 'quips', 'quiz', 'quizzes',
+    'quorum', 'rhubarb', 'rhythm', 'rickshaw', 'schnapps', 'scratch', 'shiv', 'snazzy',
+    'sphinx', 'spritz', 'squawk', 'staff', 'strength', 'stretch', 'subway', 'swivel',
+    'syndrome', 'topaz', 'transcript', 'unknown', 'unzip', 'uptown', 'vaporize', 'vixen',
+    'vodka', 'voodoo', 'vortex', 'walkway', 'waltz', 'wave', 'wavy', 'waxy',
+    'wheezy', 'whiskey', 'whizzing', 'wimpy', 'witchcraft', 'wizard', 'woozy',
+    'wristwatch', 'xylophone', 'yippee', 'youthful', 'yummy', 'zephyr', 'zigzag',
+    'zipper', 'zodiac', 'zombie'
+]
